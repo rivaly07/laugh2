@@ -2,6 +2,7 @@
 import os
 import hashlib
 
+# Entry for The One-Line Laugh — written in recorded session
 LINE = "I asked my smart speaker to help me fall asleep, so it read me my unread emails."
 
 def main():
